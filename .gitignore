@@ -1,0 +1,22 @@
+# Build
+/main
+/main.o
+*.o
+*.a
+*.so
+*.d
+
+# Tooling caches
+/.cache/
+/.vscode/
+/.idea/
+compile_commands.json
+
+# Debug
+*.core
+core
+gdb.history
+
+# OS
+.DS_Store
+Thumbs.db
