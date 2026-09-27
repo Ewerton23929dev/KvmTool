@@ -1,0 +1,154 @@
+[
+  {
+    "arguments": [
+      "/usr/lib64/ccache/gcc",
+      "-c",
+      "-g",
+      "-O1",
+      "-Iinclude",
+      "-Wall",
+      "-Wextra",
+      "-pthread",
+      "-pthread",
+      "-o",
+      "main",
+      "src/vcpu/kvm_vcpu.c"
+    ],
+    "directory": "/home/ewerton-pc/Projetos/KvmTool",
+    "file": "/home/ewerton-pc/Projetos/KvmTool/src/vcpu/kvm_vcpu.c",
+    "output": "/home/ewerton-pc/Projetos/KvmTool/main"
+  },
+  {
+    "arguments": [
+      "/usr/lib64/ccache/gcc",
+      "-c",
+      "-g",
+      "-O1",
+      "-Iinclude",
+      "-Wall",
+      "-Wextra",
+      "-pthread",
+      "-pthread",
+      "-o",
+      "main",
+      "src/vcpu/kvm_thread.c"
+    ],
+    "directory": "/home/ewerton-pc/Projetos/KvmTool",
+    "file": "/home/ewerton-pc/Projetos/KvmTool/src/vcpu/kvm_thread.c",
+    "output": "/home/ewerton-pc/Projetos/KvmTool/main"
+  },
+  {
+    "arguments": [
+      "/usr/lib64/ccache/gcc",
+      "-c",
+      "-g",
+      "-O1",
+      "-Iinclude",
+      "-Wall",
+      "-Wextra",
+      "-pthread",
+      "-pthread",
+      "-o",
+      "main",
+      "src/kvm_machine.c"
+    ],
+    "directory": "/home/ewerton-pc/Projetos/KvmTool",
+    "file": "/home/ewerton-pc/Projetos/KvmTool/src/kvm_machine.c",
+    "output": "/home/ewerton-pc/Projetos/KvmTool/main"
+  },
+  {
+    "arguments": [
+      "/usr/lib64/ccache/gcc",
+      "-c",
+      "-g",
+      "-O1",
+      "-Iinclude",
+      "-Wall",
+      "-Wextra",
+      "-pthread",
+      "-pthread",
+      "-o",
+      "main",
+      "src/kvm_device.c"
+    ],
+    "directory": "/home/ewerton-pc/Projetos/KvmTool",
+    "file": "/home/ewerton-pc/Projetos/KvmTool/src/kvm_device.c",
+    "output": "/home/ewerton-pc/Projetos/KvmTool/main"
+  },
+  {
+    "arguments": [
+      "/usr/lib64/ccache/gcc",
+      "-c",
+      "-g",
+      "-O1",
+      "-Iinclude",
+      "-Wall",
+      "-Wextra",
+      "-pthread",
+      "-pthread",
+      "-o",
+      "main",
+      "src/kvm_capability.c"
+    ],
+    "directory": "/home/ewerton-pc/Projetos/KvmTool",
+    "file": "/home/ewerton-pc/Projetos/KvmTool/src/kvm_capability.c",
+    "output": "/home/ewerton-pc/Projetos/KvmTool/main"
+  },
+  {
+    "arguments": [
+      "/usr/lib64/ccache/gcc",
+      "-c",
+      "-g",
+      "-O1",
+      "-Iinclude",
+      "-Wall",
+      "-Wextra",
+      "-pthread",
+      "-pthread",
+      "-o",
+      "main",
+      "src/x86/kvmx86_modes.c"
+    ],
+    "directory": "/home/ewerton-pc/Projetos/KvmTool",
+    "file": "/home/ewerton-pc/Projetos/KvmTool/src/x86/kvmx86_modes.c",
+    "output": "/home/ewerton-pc/Projetos/KvmTool/main"
+  },
+  {
+    "arguments": [
+      "/usr/lib64/ccache/gcc",
+      "-c",
+      "-g",
+      "-O1",
+      "-Iinclude",
+      "-Wall",
+      "-Wextra",
+      "-pthread",
+      "-pthread",
+      "-o",
+      "main",
+      "src/x86/kvmx86_registres.c"
+    ],
+    "directory": "/home/ewerton-pc/Projetos/KvmTool",
+    "file": "/home/ewerton-pc/Projetos/KvmTool/src/x86/kvmx86_registres.c",
+    "output": "/home/ewerton-pc/Projetos/KvmTool/main"
+  },
+  {
+    "arguments": [
+      "/usr/lib64/ccache/gcc",
+      "-c",
+      "-g",
+      "-O1",
+      "-Iinclude",
+      "-Wall",
+      "-Wextra",
+      "-pthread",
+      "-pthread",
+      "-o",
+      "main",
+      "src/main.c"
+    ],
+    "directory": "/home/ewerton-pc/Projetos/KvmTool",
+    "file": "/home/ewerton-pc/Projetos/KvmTool/src/main.c",
+    "output": "/home/ewerton-pc/Projetos/KvmTool/main"
+  }
+]

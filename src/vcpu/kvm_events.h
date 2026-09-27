@@ -1,0 +1,4 @@
+#ifndef INTERNAL_KVM_EVENT_H
+#define INTERNAL_KVM_EVENT_H
+
+#endif
